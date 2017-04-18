@@ -1,0 +1,43 @@
+.flex-container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    height: auto;
+}
+
+.flex-element-11{
+    flex-basis: 100%
+}
+
+.flex-element-12{
+    flex-grow: 1;
+}
+
+.flex-element-13{
+    flex-grow: 4;
+}
+
+.flex-element-14{
+    flex-grow: 1;
+}
+
+.flex-element-15{
+    flex-basis: 100%;
+}
+
+.flex-element-21{
+    flex-basis: 100%
+}
+
+.flex-element-22{
+    flex-grow: 1;
+}
+
+.flex-element-23{
+    flex-grow: 1;
+}
+
+
+.flex-element-24{
+    flex-basis: 100%;
+}
